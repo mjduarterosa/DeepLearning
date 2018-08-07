@@ -1,2 +1,2 @@
 # DeepLearning
-Code to play around with Deep Learning
+Miscellaneous deep learning scripts
